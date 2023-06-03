@@ -8,9 +8,9 @@ import {
 
 import { BaiJamjuree_700Bold } from '@expo-google-fonts/bai-jamjuree'
 
-import blurBg from './src/assets/bg-blur.png'
-import Stripes from './src/assets/stripes.svg'
-import NLWLogo from './src/assets/nlw-spacetime-logo.svg'
+import blurBg from './src/assests/bg-blur.png'
+import Stripes from './src/assests/stripes.svg'
+import NLWLogo from './src/assests/nlw-spacetime-logo.svg.svg'
 import { styled } from 'nativewind'
 
 const StyledStripes = styled(Stripes)
